@@ -7,11 +7,11 @@
   "license": "MIT",
   "bundleDependencies": false,
   "devDependencies": {
-    "@types/react": "^16.9.21",
+    "@types/react": "^17.0.2",
     "typescript": "^3.7.5"
   },
   "peerDependencies": {
-    "react": "^16.8.0"
+    "react": "^17.0.2"
   },
   "scripts": {
     "start": "tsc -w",
